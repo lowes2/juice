@@ -16,5 +16,4 @@ I will keep them engaged with rats. A lot of rats. Like crazy amounts of rats. A
 WRONG!
 It's fifty rats in a giant mechanical robot suit.
 
----
-*Remember: Focus on gameplay mechanics and player experience. Save the details about story, art style, sound design, UI flowcharts, marketing plans, or achievements for later.*
+
